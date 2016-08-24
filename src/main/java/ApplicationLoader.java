@@ -17,8 +17,8 @@ public class ApplicationLoader {
 
 
     //mycrudbucket
-    private static final String ACCESS_KEY = "AKIAJGSBLYSULTBCO2PA";
-    private static final String SECRET_KEY = "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";
+    private static final String ACCESS_KEY = "my_access_key";
+    private static final String SECRET_KEY = "mey_secret_key";
     private static final String bucketName = "mycrudbucket";
 
     private static AwsUtilities awsUtil;
